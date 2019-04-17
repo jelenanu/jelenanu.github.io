@@ -31,7 +31,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background: url(../img/intro-bg.jpg) no-repeat center top;
     background-size: cover;
 }
 
@@ -163,4 +163,12 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
+}
+
+a.whitelink {
+    color: #f8f8f8;
+}
+
+a.whitelink:hover {
+    color: #f8f8f8;
 }
